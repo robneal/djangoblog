@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"category",
+				"category"
+			],
+			[
+				"bu",
+				"budgetTypeArray"
+			],
+			[
+				"budee",
+				"budgetTypeArray"
+			],
+			[
+				"rend",
+				"render()\tReactDOM"
+			],
+			[
+				"budget",
+				"budgetTypeArray"
+			],
+			[
+				"Bud",
+				"BudgetItem"
+			],
+			[
+				"r",
+				"robneal93"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ng-b",
+				"ng-blur\tAngularJS"
+			],
+			[
+				"ng-",
+				"ng-hide\tAngularJS"
+			],
+			[
+				"scope",
+				"$scope\tAngularJS"
+			],
+			[
+				"mainM",
+				"mainMenuLinks"
+			],
+			[
+				"cou",
+				"cursor"
+			],
+			[
+				"bacgro",
+				"background-image"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"dum",
+				"dumontLtBlue"
+			],
+			[
+				"g",
+				"guidance"
+			],
+			[
+				"visu",
+				"visualLead"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"pix",
+				"pixScrolled"
+			],
+			[
+				"vi",
+				"visualText"
+			],
+			[
+				"pi",
+				"pixScrolled"
+			],
+			[
+				"px",
+				"pixScrolled"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"to",
+				"toFixed"
+			],
+			[
+				"bud",
+				"budgetingApp"
+			],
+			[
+				"printAlls",
+				"printAllSavings"
+			],
+			[
+				"getSa",
+				"getSavingsTotal"
+			],
+			[
+				"pri",
+				"printAllIncomes"
+			],
+			[
+				"spe",
+				"spendingArr"
+			],
+			[
+				"sav",
+				"savingsArr"
+			],
+			[
+				"but",
+				"budgetItemArr"
+			],
+			[
+				"e",
+				"expnses"
+			],
+			[
+				"get",
+				"getCategoryTotal"
+			],
+			[
+				"fri",
+				"firstPaycheck"
+			],
+			[
+				"expenses",
+				"expensesArr"
+			],
+			[
+				"ino",
+				"income"
+			],
+			[
+				"fir",
+				"firstPaycheck"
+			],
+			[
+				"pay",
+				"paychecks"
+			],
+			[
+				"exp",
+				"expenseAmount"
+			],
+			[
+				"ex",
+				"expenseAmount"
+			],
+			[
+				"expens",
+				"expenseName"
+			],
+			[
+				"first",
+				"firstPaycheck"
+			],
+			[
+				"payc",
+				"paycheckName"
+			],
+			[
+				"badc",
+				"background"
+			],
+			[
+				"dumo",
+				"dumontDkBlue"
+			],
+			[
+				"du",
+				"dumontDkBlue"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"dumon",
+				"dumontLtBlue"
+			],
+			[
+				"body",
+				"bodyWidhth"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"conc",
+				"concatScripts"
+			],
+			[
+				"qu",
+				"queryString"
+			],
+			[
+				"file",
+				"fileContents"
+			],
+			[
+				"prin",
+				"printError"
+			],
+			[
+				"error",
+				"error"
+			],
+			[
+				"liba",
+				"libraryDocuments"
+			],
+			[
+				"libray",
+				"libraryDocuments"
+			],
+			[
+				"libra",
+				"libraryDocuments"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"border-widt",
+				"border-bottom-width"
+			],
+			[
+				"border-w",
+				"border-bottom-width"
+			],
+			[
+				"content",
+				"contentWrapper"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"nyt",
+				"nytimesUrl"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"show",
+				"showMusicPlayer"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"appl",
+				"applyForm"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"btn-light",
+				"btn-lightInverted"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"in",
+				"initial"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/robertneal/Documents/webdev/projects/robnealGithubPages/index.html",
+		"/Users/robertneal/Documents/webdev/projects/RUNN/sass/base/_variables.scss",
+		"/Users/robertneal/Documents/webdev/projects/RUNN/sass/shame/_shame.scss",
+		"/Users/robertneal/Documents/webdev/projects/RUNN/index.html",
+		"/Users/robertneal/Documents/webdev/projects/RUNN/README.md",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/sass/_base.scss",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/index.html",
+		"/Users/robertneal/Documents/webdev/projects/RUNN/sass/base/_base.scss",
+		"/Users/robertneal/Documents/webdev/projects/RUNN/sass/main.scss",
+		"/Users/robertneal/Documents/webdev/projects/RiseWeekendF16/public_html/index.html",
+		"/Users/robertneal/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/robertneal/Documents/webdev/projects/budgetbotMvp/js/modular.js",
+		"/Users/robertneal/Documents/webdev/projects/budgetbotMvp/js/main.js",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/js/main.js",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/sass/_modularClasses.scss",
+		"/Users/robertneal/Documents/webdev/projects/budgetbot-v0.1/index.html",
+		"/Users/robertneal/Documents/webdev/projects/budgetbot-v0.1/js/main.js",
+		"/Users/robertneal/Documents/webdev/projects/budgetbot-v0.1/sass/_base.scss",
+		"/Users/robertneal/Documents/webdev/projects/budgetbot-v0.1/js/modular.js",
+		"/Users/robertneal/Documents/webdev/projects/robnealGithubPages/CNAME",
+		"/Users/robertneal/Documents/webdev/projects/Rizzer/index.html",
+		"/Users/robertneal/Documents/webdev/projects/Rizzer/sass/_base.scss",
+		"/Users/robertneal/Documents/webdev/projects/robnealGithubPages/README.md",
+		"/Users/robertneal/Documents/webdev/projects/robnealGithubPages/js/main.js",
+		"/Users/robertneal/Documents/webdev/projects/bootsrapGridAssign/main.css",
+		"/Users/robertneal/Documents/webdev/projects/bootsrapGridAssign/index.html",
+		"/Users/robertneal/Documents/webdev/projects/robnealGithubPages/sass/_base.scss",
+		"/Users/robertneal/Documents/webdev/projects/ProjectTemplate/README.md",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/scripts/app.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/scripts/controllers/main.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/scripts/services/data.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/templates/todos.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/styles/checkbox-filled.svg",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/styles/checkbox-empty.svg",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/styles/main.css",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/mock/todos.json",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/vendor/angular.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/scripts/hello-world.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/angularjs/index.html",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/README.md",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/sass/main.scss",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/sass/_headerNavigation.scss",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/js/typed.js",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/sass/_breakpoints.scss",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/sass/_generalClasses.scss",
+		"/Users/robertneal/Documents/webdev/projects/ProjectTemplate/.gitignore",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/sass/_variables.scss",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/img/icons/hamerbugerMenuBlack.svg",
+		"/Users/robertneal/Documents/webdev/projects/Hackerspace_v1.0/css/hackerspace.css",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/sass/_tagPreset.scss",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/css/main.css",
+		"/Users/robertneal/Documents/webdev/projects/RiseWeekendF16/public_html/css/main.css",
+		"/Users/robertneal/Documents/webdev/projects/YourBrainWillSucceed/css/mian.css",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/npm/app.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/gulpBasics/gulpfile.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/npm/package.json",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/npm/.gitignore",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/gulpBasics/index.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/npm/node_modules/bcrypt/README.md",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/renderer.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/router.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/app.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/views/search.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/views/profile.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/views/error.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/example_profile.js",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/designs/index.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/views/header.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/views/footer.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/designs/error.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/designs/profile.html",
+		"/Users/robertneal/Documents/webdev/projects/teamTreehouse/nodeDynamicWebsite/profile.js",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/sandbox/test.scss",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/sandbox/test.css",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/sandbox/app.js",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/RiseWeekendF16/public_html/css/main.css",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/RiseWeekendF16/public_html/index.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v1.0/library.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v1.0/index.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v1.0/aboutus.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v1.0/libraryDocuments/iRobot.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v1.0/libraryDocuments/raspberryPi.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/library.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/pandaBoards.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/blacktrack5.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/ios.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/finch.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/makerbot.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/bioloid.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/raspberryPi.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/aldebaranNao.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/libraryDocuments/docs/PandaBoardSetup.pdf",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/index.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/aboutus.html",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/css/hackerspace.css",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/css/colors.css",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/images/teamMembers/no_image.png",
+		"/Users/robertneal/Documents/WebDevelopment/Projects/Hackerspace  v0.5/css/hackerspace copy.css",
+		"/Users/robertneal/Documents/WebDevelopment/Hackerspace  v0.5/index1.html",
+		"/Users/robertneal/Documents/WebDevelopment/Hackerspace  v0.5/css/hackerspace copy.css",
+		"/Users/robertneal/Documents/WebDevelopment/Hackerspace/css/hackerspace.css",
+		"/Users/robertneal/Desktop/transaction_statement.php",
+		"/Users/robertneal/Documents/transaction.php",
+		"/Users/robertneal/Documents/addTransaction.php",
+		"/Users/robertneal/Documents/Rutgers/Web Design/finalProject/index.html",
+		"/Users/robertneal/Documents/WebDevelopment/RiseWeekendF16/public_html/index.html",
+		"/Users/robertneal/Documents/WebDevelopment/Hackerspace/index.html",
+		"/Users/robertneal/Documents/Transaction.html",
+		"/Users/robertneal/Desktop/README.txt",
+		"/Users/robertneal/Desktop/test2.js",
+		"/Users/robertneal/Desktop/test2.html",
+		"/Users/robertneal/Desktop/output.php",
+		"/Users/robertneal/Desktop/learning.php",
+		"/Users/robertneal/Desktop/input.php",
+		"/Users/robertneal/Downloads/minicourse-ajax-project/js/libs/jquery.min.js",
+		"/Users/robertneal/Downloads/README.txt",
+		"/Users/robertneal/Desktop/Hello World.txt",
+		"/Users/robertneal/Downloads/minicourse-ajax-project/.gitignore",
+		"/Users/robertneal/Downloads/Udacity_AJAX_INIT.zip",
+		"/Users/robertneal/Downloads/ajax/index.html",
+		"/Users/robertneal/Downloads/RiseWeekend3/public_html/img/portfolio/artist.jpeg",
+		"/Users/robertneal/Downloads/RiseWeekend3/public_html/img/portfolio/innovator.png",
+		"/Users/robertneal/Downloads/RiseWeekend3/public_html/img/portfolio/artist.jpg",
+		"/Users/robertneal/Downloads/RiseWeekend/public_html/index.html",
+		"/Users/robertneal/Downloads/RiseWeekend3/public_html/img/logo/Logo27_1.png",
+		"/Users/robertneal/Downloads/RiseWeekend2/public_html/index.html",
+		"/Users/robertneal/Downloads/RiseWeekend3/public_html/css/signup.css",
+		"/Users/robertneal/Downloads/RiseWeekend/public_html/css/main.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#visualLead",
+			"span",
+			"budgetITemArr",
+			"@media screen and (min-width: 400px) {",
+			"innersection",
+			"section",
+			"innerSection",
+			"outerSection",
+			"hr ",
+			"hr",
+			"sponsors",
+			"text-faded",
+			"team"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 55.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango19.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
